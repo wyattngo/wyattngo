@@ -80,24 +80,3 @@ Based in Vietnam. I ship in English, think in Vietnamese.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-
-## Operating principles
-
-> Liquidity reserve is not a feature. It is the only feature.
-
-> If a comment is needed to explain *what*, the code is wrong.
-> Comments exist for *why*.
-
-> Every financial change needs three things: an audit trail,
-> idempotency, and an atomic transaction. Anything less is a bug
-> waiting for the worst possible moment.
-
----
-📬  [duong.sways@gmail.com](mailto:duong.sways@gmail.com)
-
-## GitHub
-<p align="center">
-
-[![Wyatt's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyattngo&theme=github_dark)](https://github.com/wyattngo)
-</p>
