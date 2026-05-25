@@ -3,8 +3,6 @@
 Senior engineer at **ONFA Fintech USA Corp** — building production fintech
 systems and AI agents that handle real user funds.
 
-Based in Vietnam. I ship in English, think in Vietnamese.
-
 ![Profile views](https://komarev.com/ghpvc/?username=wyattngo&style=flat-square&color=0a0a0a)
 [![Email](https://img.shields.io/badge/duong.sways%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:duong.sways@gmail.com)
 
